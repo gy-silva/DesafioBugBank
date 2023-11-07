@@ -47,7 +47,7 @@ Cenário 5 (validar entrada de valor na conta2):
 
 ##	Executando o projeto:
  - Executar o git - comando Git Bash here;
- - Clonar o projeto - comando git clone 
+ - Clonar o projeto - comando git clone https://github.com/gy-silva/DesafioBugBank
  - Abrir o projeto no Intellij;
  - Atualizar dependências com Maven (Reload all Maven Project);
  - Executar casoTeste - RealizarTransferenciaEntreContas;
